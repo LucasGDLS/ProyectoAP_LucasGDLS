@@ -90,9 +90,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoAP_LucasGDLS/Proyecto_LucasGDLSAP/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoAP_LucasGDLS/Proyecto_LucasGDLSAP/node_modules/bootstrap/dist/js/bootstrap.js",
+              "ProyectoAP_LucasGDLS/Proyecto_LucasGDLSAP/node_modules/@popperjs/core/dist/umd/popper.min.js"
+            ]
           }
         }
       }
